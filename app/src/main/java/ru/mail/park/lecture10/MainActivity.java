@@ -56,8 +56,8 @@ public class MainActivity extends AppCompatActivity
         final Fragment fragment;
         switch (item.getItemId()) {
             case R.id.nav_comparision:
-                fragment = new ComparisionFragment();
-                toolbar.setTitle(R.string.menu_comparision);
+                fragment = new ComparisonFragment();
+                toolbar.setTitle(R.string.menu_comparison);
                 break;
             case R.id.nav_animator:
                 fragment = new AnimatorFragment();

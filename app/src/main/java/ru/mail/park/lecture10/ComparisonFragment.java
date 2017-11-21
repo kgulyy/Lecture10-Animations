@@ -17,7 +17,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
-public class ComparisionFragment extends Fragment {
+public class ComparisonFragment extends Fragment {
 
     private static final long ANIMATION_DURATION = 3000L;
 
