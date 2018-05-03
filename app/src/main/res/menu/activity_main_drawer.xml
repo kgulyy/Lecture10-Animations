@@ -21,5 +21,10 @@
             android:id="@+id/nav_interpolator"
             android:icon="@drawable/ic_directions_run_black_24dp"
             android:title="@string/menu_interpolator"/>
+
+        <item
+            android:id="@+id/nav_crazy_square"
+            android:icon="@drawable/ic_play_circle_outline_black_24dp"
+            android:title="@string/menu_crazy_square"/>
     </group>
 </menu>

@@ -76,6 +76,10 @@ public class MainActivity extends AppCompatActivity
                 fragment = new InterpolatorFragment();
                 toolbar.setTitle(R.string.menu_interpolator);
                 break;
+            case R.id.nav_crazy_square:
+                fragment = new SquareFragment();
+                toolbar.setTitle(R.string.menu_crazy_square);
+                break;
             default:
                 throw new UnsupportedOperationException();
         }
