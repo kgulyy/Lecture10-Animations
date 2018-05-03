@@ -1,6 +1,5 @@
 package ru.mail.park.lecture10;
 
-import android.animation.Animator;
 import android.animation.ObjectAnimator;
 import android.animation.ValueAnimator;
 import android.graphics.Color;
